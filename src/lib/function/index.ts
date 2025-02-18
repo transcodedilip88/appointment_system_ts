@@ -1,0 +1,1 @@
+export * as universalFunction from '../universalFunctions'
